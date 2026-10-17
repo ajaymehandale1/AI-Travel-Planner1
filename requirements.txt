@@ -4,3 +4,4 @@ Werkzeug
 python-dotenv
 groq
 gunicorn
+requests
